@@ -14,5 +14,6 @@ Deep.sleep.percentage -- 52.82%
 Light.sleep.percentage -- 24.5%
 Exercise.frequency -- 2 day/week
 
+There is CSV file and R code of it
 Also there are few screenshot attached in the repository
 
