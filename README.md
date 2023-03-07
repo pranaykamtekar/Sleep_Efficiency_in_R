@@ -14,3 +14,5 @@ Deep.sleep.percentage -- 52.82%
 Light.sleep.percentage -- 24.5%
 Exercise.frequency -- 2 day/week
 
+Also there are few screenshot attached in the repository
+
