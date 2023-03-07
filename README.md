@@ -1,13 +1,12 @@
 # Sleep_efficieny_in_R
 
+This dataset contain 450+ rows with 15 variables
+also it has 10%+ NA values in various columns
+We have cleaned the data and visualize it with ggplot2
 There is CSV file and R code of it
 Also there are few screenshot attached in the repository
 
 Libraries uses in this project -- tidyverse,ggplot2,dplyr,skimr
-
-This dataset contain 450+ rows with 15 variables
-also it has 10%+ NA values in various columns
-We have cleaned the data and visualize it with ggplot2
 
 After summarizing the cleaned data we got 
 
