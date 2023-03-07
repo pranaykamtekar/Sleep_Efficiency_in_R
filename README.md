@@ -1,5 +1,8 @@
 # Sleep_efficieny_in_R
 
+There is CSV file and R code of it
+Also there are few screenshot attached in the repository
+
 Libraries uses in this project -- tidyverse,ggplot2,dplyr,skimr
 
 This dataset contain 450+ rows with 15 variables
@@ -14,6 +17,4 @@ Deep.sleep.percentage -- 52.82%
 Light.sleep.percentage -- 24.5%
 Exercise.frequency -- 2 day/week
 
-There is CSV file and R code of it
-Also there are few screenshot attached in the repository
 
